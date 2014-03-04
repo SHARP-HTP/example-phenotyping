@@ -1,5 +1,6 @@
 example-phenotyping
 ===================
+An example program showing the execution of a QDM algorithm based on a sample patient set.
 
 Compiling
 ---------
